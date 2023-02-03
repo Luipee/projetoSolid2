@@ -1,0 +1,25 @@
+{
+  "name": "projetosolid2",
+  "version": "1.0.0",
+  "description": "solid 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luipee/projetoSolid2.git"
+  },
+  "author": "luis felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luipee/projetoSolid2/issues"
+  },
+  "homepage": "https://github.com/Luipee/projetoSolid2#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "devDependencies": {
+    "vitest": "^0.28.4"
+  }
+}
