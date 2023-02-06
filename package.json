@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Luipee/projetoSolid2#readme",
   "dependencies": {
+    "data-fns": "^0.1.8",
+    "date-fns": "^2.29.3",
     "nodemon": "^2.0.20"
   },
   "devDependencies": {
